@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá visitante! Seja bem vindo.😀 
 
-<!--
-**DanianyAmaral/DanianyAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Daniany Amaral!
 
-Here are some ideas to get you started:
+Sou desenvolvedora. Atualmente moro no estado de MG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💾 Meus objetivos 💾 : 
+* Dominar as tecnologias mais novas.🔥
+* Gerenciar projetos grandes.🔥
+* E essa lista vai crescer cada vez mais! 🏃
+ 
+### 🎉Linkedin 🎉
+<p align="left">
+  <a href="url_seu_linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Daniany amaral" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+##
+
+![DanianyAmaralGithub stats](https://github-readme-stats.vercel.app/api?username=DanianyAmaral&show_icons=true&theme=dracula)     [![DanianyAmaralGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanianyAmaral&layout=compact)](https://github.com/DanianyAmaral/github-readme-stats)
